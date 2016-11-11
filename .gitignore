@@ -1,0 +1,7 @@
+n = int(input())
+b={}
+for i in range(n):
+    b.add(input())
+m=int(input())
+c={}
+for i in range() 
